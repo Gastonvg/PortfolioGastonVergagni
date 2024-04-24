@@ -5,7 +5,7 @@ function Projectsesp() {
   return (
     <div className={styles.container}>
       <div className={styles.container2}>
-        <div><h1>Proyectos</h1></div>
+        <div><h1 className={styles.h1}>Proyectos</h1></div>
         <div className={styles.proyecto}>
         <a href="https://www.linkedin.com/in/gaston-vergagni-a87b3b29b/details/projects/" target="_blank" rel="noopener noreferrer" className={styles.titulo}>Interfoods</a>
             <p className={styles.des}>Un sitio web que construimos con mis colegas para vender comida de Argentina, Colombia, Ecuador y México. Este fue mi primer proyecto en equipo donde aprendimos muchas tecnologías nuevas. Fue una experiencia hermosa para mí.</p>

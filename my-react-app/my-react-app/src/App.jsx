@@ -28,11 +28,11 @@ function App() {
     <div className={Style.fondo}>
       <div className={Style.container}>
         <div className={Style.boton}>
-           <p>English</p>
+           <p className={Style.textoboton}>English</p>
            <div className={language === 'eng' ? Style.boton2 : Style.boton4} onClick={toggleLanguage}>
               <div className={Style.boton3}></div>
            </div>
-           <p>Español</p> 
+           <p className={Style.textoboton}>Español</p> 
         </div>
         {language === 'eng' ? <Header /> : <Headeresp />}
         {language === 'eng' ? <About /> : <Aboutesp />}

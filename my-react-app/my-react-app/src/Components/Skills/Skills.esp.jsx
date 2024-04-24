@@ -5,7 +5,7 @@ function Skillsesp() {
   return (
     <div className={styles.container}>
       <div className={styles.container2}>
-        <div><h1>Habilidades</h1></div>
+        <div><h1 className={styles.h1}>Habilidades</h1></div>
         <div className={styles.skills}>
             <p className={styles.skill}>JavaScript</p>
             <p className={styles.skill}>TypeScript</p>

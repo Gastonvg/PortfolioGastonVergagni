@@ -5,7 +5,7 @@ function Aboutesp() {
   return (
     <div className={styles.container}>
       <div className={styles.container2}>
-        <h1>Sobre Mi</h1>
+        <h1 className={styles.h1}>Sobre Mi</h1>
         <p className={styles.textod}>Hola! soy Gaston Emilio Vergagni y tengo 27 años, a continuación dejo un poco sobre mi..
         <br/>
         <br/>

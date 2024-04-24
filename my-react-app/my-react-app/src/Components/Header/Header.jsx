@@ -6,7 +6,7 @@ function Header() {
   return (
     <div className={styles.container}>
       <div className={styles.container2}>
-        <div><h1>Gaston Vergagni</h1></div>
+        <div><h1 className={styles.h1}>Gaston Vergagni</h1></div>
         <div className={styles.textod}><p>I am a full-stack developer focused on tackling new challenges and improving day by day</p></div>
         <div className={styles.loc}>
           <img src='https://cdn-icons-png.flaticon.com/128/900/900782.png' alt='Location Icon' className={styles.mundo}/>

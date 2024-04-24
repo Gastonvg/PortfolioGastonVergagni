@@ -5,7 +5,7 @@ function About() {
   return (
     <div className={styles.container}>
       <div className={styles.container2}>
-        <h1>About</h1>
+        <h1 className={styles.h1}>About</h1>
         <p className={styles.textod}>Hi! I'm Gaston Emilio Vergagni and I'm 27 years old. Here's a little bit about myself.
         <br/>
         <br/>

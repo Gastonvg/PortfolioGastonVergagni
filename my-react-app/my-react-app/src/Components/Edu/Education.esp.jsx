@@ -5,7 +5,7 @@ function Educationesp() {
   return (
     <div className={styles.container}>
       <div className={styles.container2}>
-        <div><h1>Educacion</h1></div>
+        <div><h1 className={styles.h1}>Educacion</h1></div>
         <div className={styles.completo}>
          <div className={styles.titulo}>
             <h2>Universidad General Sarmiento</h2>

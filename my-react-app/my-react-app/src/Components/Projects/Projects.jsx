@@ -5,7 +5,7 @@ function Projects() {
   return (
     <div className={styles.container}>
       <div className={styles.container2}>
-        <div><h1>Projects</h1></div>
+        <div><h1 className={styles.h1}>Projects</h1></div>
         <div className={styles.proyecto}>
         <a href="https://www.linkedin.com/in/gaston-vergagni-a87b3b29b/details/projects/" target="_blank" rel="noopener noreferrer" className={styles.titulo}>Interfoods</a>
             <p className={styles.des}>A website we built with my colleagues for selling food from Argentina, Colombia, Ecuador, and Mexico. This was my first team project where we learned many new technologies. It was a beautiful experience for me</p>

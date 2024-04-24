@@ -21,11 +21,13 @@
     display: flex;
     width: 100%;
     align-items: center;
+    color: black;
 }
 
 .fecha{
     text-align: right;
     margin-left: auto;
+    color: black;
 }
 
 .tipo{
@@ -34,13 +36,20 @@
     padding-left: 2px;
     padding-right: 2px;
     border-radius: 10px;
+    color: black;
 }
 
 .cargo{
     font-size: 20px;
     font-weight: 400;
+    color: black;
 }
 
 .textod{
     font-family:   Arial, sans-serif;
+    color: black;
+}
+
+.h1{
+    color: black;
 }
