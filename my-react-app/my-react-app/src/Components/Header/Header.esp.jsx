@@ -16,7 +16,7 @@ function Headeresp() {
           <a href='https://www.linkedin.com/in/gaston-vergagni-a87b3b29b/' target='_blank' rel='noopener noreferrer'>
             <img src='https://cdn-icons-png.flaticon.com/128/3128/3128219.png' alt='LinkedIn Icon' className={styles.linkredes} />
           </a>
-          <a href='https://github.com/' target='_blank' rel='noopener noreferrer'>
+          <a href='https://github.com/Gastonvg' target='_blank' rel='noopener noreferrer'>
             <img src='https://cdn-icons-png.flaticon.com/128/25/25231.png' alt='Location Icon' className={styles.linkredes}/>
           </a>
           <a href='mailto:gaston.vergagni97@gmail.com' target='_blank' rel='noopener noreferrer'>
