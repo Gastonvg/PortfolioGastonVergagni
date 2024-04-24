@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    width: 100%;
+    background-color: rgba(248, 244, 244, 0.856);
+    align-items: center;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    backdrop-filter: blur(2px);
+    border: none;
+    padding-bottom: 50px;
+
+}
+.container2{
+    display: inline;
+    width: 100%;
+    z-index: 1;
+}
+
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 0; 
+    width: 100%;
+}
+
+.skill{
+    background-color: rgb(83, 83, 83);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    color: white;
+}
+
+.skill:hover{
+    background-color: rgb(110, 110, 110);
+}
+

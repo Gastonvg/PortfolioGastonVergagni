@@ -1,0 +1,85 @@
+.container{
+    display: flex;
+    width: 100%;
+    background-color: rgba(248, 244, 244, 0.856);
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    align-items: center ;
+    justify-content: center;
+    backdrop-filter: blur(10px);
+    padding-bottom: 50px;
+
+}
+
+
+.container2{
+    display: inline;
+    width: 100%;
+}
+
+.loc{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.textod{
+    width: 70%;
+    margin-left: 10px;
+    font-family:   Arial, sans-serif;
+}
+
+.image{
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    align-items: center ;
+    justify-content: center;
+    box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.24);
+}
+
+.link{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.mundo{
+    width: 22px;
+    height: 20px;
+}
+
+.linkmundo{
+    color: black;
+    text-decoration: none;
+}
+
+.linkmundo:hover{
+    text-decoration: none;
+    color: black;
+    text-decoration: underline;
+}
+
+.linkredes{
+    width: 22px;
+    height: 20px;
+    transition: ease-in-out 0.2s;
+}
+
+.link img {
+    margin-right: 10px; /* Agrega un margen a la derecha de cada imagen */
+    border: 1px solid #07070759; /* Agrega un borde de 1px sólido de color gris claro */
+    border-radius: 5px; 
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.linkredes:hover{
+    background-color: rgba(0, 0, 0, 0.123);
+}

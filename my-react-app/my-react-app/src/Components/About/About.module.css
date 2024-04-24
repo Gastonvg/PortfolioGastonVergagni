@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    width: 100%;
+    background-color: rgba(248, 244, 244, 0.856);
+    align-items: center;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    backdrop-filter: blur(10px);
+    border: none;
+    padding-bottom: 50px;
+}
+
+
+
+.container2{
+    display: inline;
+    width: 100%;
+}
+
+.textod{
+    font-family:   Arial, sans-serif;
+}

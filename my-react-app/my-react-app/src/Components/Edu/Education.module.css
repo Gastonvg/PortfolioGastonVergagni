@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    width: 100%;
+    background-color: rgba(248, 244, 244, 0.856);
+    align-items: center;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    backdrop-filter: blur(10px);
+    border: none;
+    padding-bottom: 50px;
+
+}
+.container2{
+    display: inline;
+    width: 100%;
+}
+
+.titulo{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.fecha{
+    text-align: right;
+    margin-left: auto;
+}
+
+.tipo{
+    margin-left: 10px;
+    border: 1px solid black;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 10px;
+}
+
+.textod{
+    font-family:   Arial, sans-serif;
+}
+
+.completo{
+    margin-bottom: 50px;
+}
