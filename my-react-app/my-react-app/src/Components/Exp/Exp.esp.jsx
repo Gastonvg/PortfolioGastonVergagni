@@ -14,7 +14,7 @@ function Expesp() {
             <p className={styles.fecha}>2023(Marzo) - 2023(Agosto)</p>
          </div>
          <p className={styles.cargo}>Tecnico en Reparacion</p>
-         <p className={styles.textod}>Era uno de los técnicos en reparación de computadoras de escritorio, notebooks y impresoras. me encargaba tanto de reparar sistemas operativos como la instalación de software y hardwareEra</p>
+         <p className={styles.textod}>Era uno de los técnicos en reparación de computadoras de escritorio, notebooks y impresoras. me encargaba tanto de reparar sistemas operativos como la instalación de software y hardware</p>
          </div>
          <div>
          <div className={styles.titulo}>

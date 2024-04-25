@@ -21,7 +21,7 @@ English proficiency level: EF SET English Certificated 75/100
 <br/>
 
 
-👨‍🎓 I started studying programming in 2020, initially with a bit of Python . In 2023, I discovered JavaScript and web development, which led me to pursue a career as a Full Stack Developer. Currently, I have knowledge in JS, TypeScript, Node.js, React, Redux, Express, Sequelize, PostgreSQL, SQL, and Python.
+👨‍🎓 I started studying programming in 2020, initially with a bit of Python. In 2023, I discovered JavaScript and web development, which led me to pursue a career as a Full Stack Developer. Currently, I have knowledge in JS, TypeScript, Node.js, React, Redux, Express, Sequelize, PostgreSQL, SQL, and Python.
 <br/>
 <br/>
 
