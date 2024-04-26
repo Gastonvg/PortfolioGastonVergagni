@@ -11,7 +11,7 @@ function Educationesp() {
             <h2>Universidad General Sarmiento</h2>
             <p className={styles.fecha}>2018 - 2021</p>
          </div>
-         <p className={styles.textod}>Un año estudiando Ingenieria en Sistemas y un ano estudiando ingenieria Electromecanica.</p>
+         <p className={styles.textod}>Un año estudiando Ingenieria en Sistemas y un año estudiando ingenieria Electromecanica.</p>
          <p></p>
          </div>
          <div div className={styles.completo}>
