@@ -18,7 +18,7 @@ function Skills() {
             <p className={styles.skill}>Tailwind</p>
             <p className={styles.skill}>CSS</p>
             <p className={styles.skill}>Database</p>
-
+            <p className={styles.skill}>HTML</p>
         </div>
       </div>
     </div>
