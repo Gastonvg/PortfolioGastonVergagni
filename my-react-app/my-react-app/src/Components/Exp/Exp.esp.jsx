@@ -25,6 +25,15 @@ function Expesp() {
          <p className={styles.cargo}>Encargado en Salon de Eventos</p>
          <p className={styles.textod}>Era el encargado del lugar durante la semana y en eventos era el encargado de las necesidades del personal como tambien el encargado de controlar el stock de bebidas, utilidades, ect.</p>
          </div>
+         <div>
+         <div className={styles.titulo}>
+            <h2>Estudio Contable Dra Medvedev</h2>
+            <p className={styles.tipo}>Presencial</p>
+            <p className={styles.fecha}>2017(enero) - 2021(Octubre)</p>
+         </div>
+         <p className={styles.cargo}>Data Entry, Atención al Cliente y IT</p>
+         <p className={styles.textod}>data entry en diferentes sistemas contables, atencion de clientes, cobranzas y seguimiento de cuentas corrientes, gestion de presenciales y online en afip - arbar - municipalidad y bancos.</p>
+         </div>
       </div>
     </div>
   )

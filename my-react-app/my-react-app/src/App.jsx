@@ -29,8 +29,8 @@ function App() {
       <div className={Style.container}>
         <div className={Style.boton}>
            <p className={Style.textoboton}>English</p>
-           <div className={language === 'eng' ? Style.boton2 : Style.boton4} onClick={toggleLanguage}>
-              <div className={Style.boton3}></div>
+           <div className={Style.botonuevo}>
+              <input type="checkbox" class={Style.themecheckbox} onClick={toggleLanguage}/>
            </div>
            <p className={Style.textoboton}>Español</p> 
         </div>
