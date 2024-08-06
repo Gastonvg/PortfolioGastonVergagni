@@ -20,7 +20,7 @@ function Expesp() {
          <div className={styles.titulo}>
             <h2>Janos Eventos</h2>
             <p className={styles.tipo}>Presencial</p>
-            <p className={styles.fecha}>2022(Noviembre) - 2023(Octubre)</p>
+            <p className={styles.fecha}>2022(Febrero) - 2022(Diciembre)</p>
          </div>
          <p className={styles.cargo}>Encargado en Salon de Eventos</p>
          <p className={styles.textod}>Era el encargado del lugar durante la semana y en eventos era el encargado de las necesidades del personal como tambien el encargado de controlar el stock de bebidas, utilidades, ect.</p>

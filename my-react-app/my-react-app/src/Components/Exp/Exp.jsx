@@ -20,7 +20,7 @@ function Exp() {
          <div className={styles.titulo}>
             <h2>Janos Eventos</h2>
             <p className={styles.tipo}>On-site</p>
-            <p className={styles.fecha}>2022(November) - 2023(October)</p>
+            <p className={styles.fecha}>2022(November) - 2022(December)</p>
          </div>
          <p className={styles.cargo}>Event Venue Manager</p>
          <p className={styles.textod}>I was the weekly venue manager and responsible for tasks such as overseeing beverage stock and venue supplies in events.</p>
