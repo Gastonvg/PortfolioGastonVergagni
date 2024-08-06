@@ -32,7 +32,7 @@ function Expesp() {
             <p className={styles.fecha}>2017(enero) - 2021(Octubre)</p>
          </div>
          <p className={styles.cargo}>Data Entry, Atención al Cliente y IT</p>
-         <p className={styles.textod}>Data entry en diferentes sistemas contables, atencion de clientes, cobranzas y seguimiento de cuentas corrientes, gestion de presenciales y online en afip - arbar - municipalidad y bancos.</p>
+         <p className={styles.textod}>Data entry en diferentes sistemas contables, atencion de clientes, cobranzas y seguimiento de cuentas corrientes, gestion de presenciales y online en AFIP - ARBA - Municipalidades y bancos.</p>
          </div>
       </div>
     </div>
