@@ -22,7 +22,7 @@ function Header() {
           <a href='mailto:gaston.vergagni97@gmail.com' target='_blank' rel='noopener noreferrer'>
              <img src='https://cdn-icons-png.flaticon.com/128/646/646135.png' alt='Location Icon' className={styles.linkredes}/>
           </a>
-          <a href='https://wa.me/+54911666137257' target='_blank' rel='noopener noreferrer'>
+          <a href='https://wa.me/+549116661-3725' target='_blank' rel='noopener noreferrer'>
              <img src='https://cdn-icons-png.flaticon.com/128/597/597177.png' alt='Location Icon' className={styles.linkredes}/>
           </a>
         </div>
