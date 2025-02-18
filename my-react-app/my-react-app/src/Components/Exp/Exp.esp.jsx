@@ -9,6 +9,15 @@ function Expesp() {
         <div><h1 className={styles.h1}>Experiencia Laboral</h1></div>
         <div>
          <div className={styles.titulo}>
+            <h2 className={styles.h1}>Estudio Contable Dra Medvedev</h2>
+            <p className={styles.tipo}>Presencial</p>
+            <p className={styles.fecha}>2024(Julio) - 2025(Enero)</p>
+         </div>
+         <p className={styles.cargo}>IT y Web Dev</p>
+         <p className={styles.textod}>En la parte de It administraba redes, aportaba soporte tenico, administraba la base de datos y carga de datos y mantenimiento de pcs. en la parte de web dev manejaba todo lo que era la pagina de la empresa y manejar las redes.</p>
+         </div>
+        <div>
+         <div className={styles.titulo}>
             <h2 className={styles.h1}>Axa</h2>
             <p className={styles.tipo}>Presencial</p>
             <p className={styles.fecha}>2023(Marzo) - 2023(Agosto)</p>

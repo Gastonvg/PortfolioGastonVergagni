@@ -9,6 +9,16 @@ function Exp() {
         <div><h1 className={styles.h1}>Work Experience</h1></div>
         <div>
          <div className={styles.titulo}>
+            <h2 className={styles.h1}>Accounting Firm Dra. Medvedev</h2>
+            <p className={styles.tipo}>On-site</p>
+            <p className={styles.fecha}>2024 (July) - 2025 (January)</p>
+         </div>
+         <p className={styles.cargo}>IT & Web Developer</p>
+         <p className={styles.textod}> In the IT department, I managed networks, provided technical support, administered the database, handled data entry, and performed computer maintenance.  
+         In the web development area, I was responsible for managing the company's website and social media accounts.</p>
+         </div>
+        <div>
+         <div className={styles.titulo}>
             <h2 className={styles.h1}>Axa</h2>
             <p className={styles.tipo}>On-site</p>
             <p className={styles.fecha}>2023(March) - 2023(August)</p>
