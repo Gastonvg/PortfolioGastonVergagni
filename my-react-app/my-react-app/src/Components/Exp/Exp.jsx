@@ -14,8 +14,11 @@ function Exp() {
             <p className={styles.fecha}>2024 (July) - 2025 (January)</p>
          </div>
          <p className={styles.cargo}>IT & Web Developer</p>
-         <p className={styles.textod}> In the IT department, I managed networks, provided technical support, administered the database, handled data entry, and performed computer maintenance.  
-         In the web development area, I was responsible for managing the company's website and social media accounts.</p>
+         <p className={styles.textod}> In the IT field, I was responsible for network administration and maintenance, ensuring proper operation and optimization. I also provided technical support for both hardware and software, configuring devices and offering technical assistance.
+            <b/>
+Additionally, I managed the database, performing administration, maintenance, and data entry tasks to ensure its availability and proper functionality. I was also in charge of maintaining IT equipment, including repairing, upgrading, and optimizing PCs and other devices.
+<b/>
+In the field of web development, I was responsible for managing and maintaining the company's website, implementing improvements, updates, and optimizations to enhance the user experience using technologies such as JavaScript, TypeScript, and Tailwind. I also managed social media, creating and handling content to strengthen the company's online presence and improve engagement with clients and potential customers.</p>
          </div>
         <div>
          <div className={styles.titulo}>

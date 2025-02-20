@@ -14,7 +14,14 @@ function Expesp() {
             <p className={styles.fecha}>2024(Julio) - 2025(Enero)</p>
          </div>
          <p className={styles.cargo}>IT y Web Dev</p>
-         <p className={styles.textod}>En la parte de It administraba redes, aportaba soporte tenico, administraba la base de datos y carga de datos y mantenimiento de pcs. en la parte de web dev manejaba todo lo que era la pagina de la empresa y manejar las redes.</p>
+         <p className={styles.textod}>En el área de IT, me encargaba de la administración y mantenimiento de redes, asegurando su correcto funcionamiento y optimización. 
+                                      También brindaba soporte técnico tanto a nivel hardware como software, configurando equipos y ofreciendo asistencia tecnica.
+                                      <b/>
+                                      Además, gestionaba la base de datos, realizando tareas de administración, mantenimiento y carga de datos, asegurando su disponibilidad y correcto funcionamiento.
+                                       También me ocupaba del mantenimiento de los equipos informáticos, incluyendo la reparación, actualización y optimización de PCs y otros dispositivos.
+                                       <b/>
+                                       En el ámbito del desarrollo web, era responsable de la gestión y mantenimiento del sitio web de la empresa, implementando mejoras, actualizaciones y optimizaciones para mejorar la experiencia del usuario usando tecnológicas tales como JS, Typescript yTailwind. 
+                                      También administraba las redes sociales, creando y gestionando contenido para fortalecer la presencia online de la empresa y mejorar su interacción con clientes y potenciales usuarios.</p>
          </div>
         <div>
          <div className={styles.titulo}>
