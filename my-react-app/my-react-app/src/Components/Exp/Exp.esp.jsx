@@ -14,14 +14,48 @@ function Expesp() {
             <p className={styles.fecha}>2024(Julio) - 2025(Enero)</p>
          </div>
          <p className={styles.cargo}>IT y Web Dev</p>
-         <p className={styles.textod}>En el área de IT, me encargaba de la administración y mantenimiento de redes, asegurando su correcto funcionamiento y optimización. 
-                                      También brindaba soporte técnico tanto a nivel hardware como software, configurando equipos y ofreciendo asistencia tecnica.
-                                      <b/>
-                                      Además, gestionaba la base de datos, realizando tareas de administración, mantenimiento y carga de datos, asegurando su disponibilidad y correcto funcionamiento.
-                                       También me ocupaba del mantenimiento de los equipos informáticos, incluyendo la reparación, actualización y optimización de PCs y otros dispositivos.
-                                       <b/>
-                                       En el ámbito del desarrollo web, era responsable de la gestión y mantenimiento del sitio web de la empresa, implementando mejoras, actualizaciones y optimizaciones para mejorar la experiencia del usuario usando tecnológicas tales como JS, Typescript yTailwind. 
-                                      También administraba las redes sociales, creando y gestionando contenido para fortalecer la presencia online de la empresa y mejorar su interacción con clientes y potenciales usuarios.</p>
+         <p className={styles.textod}>
+         -🖥️ IT & Soporte Técnico
+         <b/>
+          Administración y mantenimiento de redes
+          <b/>
+          Soporte técnico (hardware & software)
+          <b/>
+          Configuración de equipos y servidores
+          <b/>
+          Mantenimiento y optimización de PCs
+          <b/>
+          Administración de bases de datos
+          <b/>
+          Carga y gestión de datos
+          <b/>
+          Seguridad informática
+          <b/>
+         Diagnóstico y resolución de problemas técnicos           
+         <b/>
+         <b/>
+         -🌐 Desarrollo Web
+         <b/>
+         JavaScript (JS)
+         <b/>
+         TypeScript
+         <b/>
+         Tailwind CSS
+         <b/>
+         HTML & CSS
+         <b/>
+         Desarrollo y mantenimiento de sitios web
+         <b/>
+         Optimización de rendimiento web
+         <b/>
+         UX/UI básico
+         <b/>
+         <b/>
+         -📱 Marketing Digital & Redes Sociales
+         <b/>
+         Gestión de redes sociales
+         <b/>
+         </p>
          </div>
         <div>
          <div className={styles.titulo}>

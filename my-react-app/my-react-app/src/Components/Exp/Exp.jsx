@@ -13,12 +13,49 @@ function Exp() {
             <p className={styles.tipo}>On-site</p>
             <p className={styles.fecha}>2024 (July) - 2025 (January)</p>
          </div>
-         <p className={styles.cargo}>IT & Web Developer</p>
-         <p className={styles.textod}> In the IT field, I was responsible for network administration and maintenance, ensuring proper operation and optimization. I also provided technical support for both hardware and software, configuring devices and offering technical assistance.
-            <b/>
-Additionally, I managed the database, performing administration, maintenance, and data entry tasks to ensure its availability and proper functionality. I was also in charge of maintaining IT equipment, including repairing, upgrading, and optimizing PCs and other devices.
-<b/>
-In the field of web development, I was responsible for managing and maintaining the company's website, implementing improvements, updates, and optimizations to enhance the user experience using technologies such as JavaScript, TypeScript, and Tailwind. I also managed social media, creating and handling content to strengthen the company's online presence and improve engagement with clients and potential customers.</p>
+         <p className={styles.cargo}>IT & Web Dev</p>
+<p className={styles.textod}>
+  -🖥️ IT & Technical Support  
+  <b/>  
+  Network administration and maintenance  
+  <b/>  
+  Technical support (hardware & software)  
+  <b/>  
+  Equipment and server configuration  
+  <b/>  
+  PC maintenance and optimization  
+  <b/>  
+  Database administration  
+  <b/>  
+  Data entry and management  
+  <b/>  
+  Cybersecurity  
+  <b/>  
+  Technical issue diagnosis and resolution  
+  <b/>  
+  <b/>  
+  -🌐 Web Development  
+  <b/>  
+  JavaScript (JS)  
+  <b/>  
+  TypeScript  
+  <b/>  
+  Tailwind CSS  
+  <b/>  
+  HTML & CSS  
+  <b/>  
+  Website development and maintenance  
+  <b/>  
+  Web performance optimization  
+  <b/>  
+  Basic UX/UI  
+  <b/>  
+  <b/>  
+  -📱 Digital Marketing & Social Media  
+  <b/>  
+  Social media management  
+  <b/>  
+</p>
          </div>
         <div>
          <div className={styles.titulo}>
