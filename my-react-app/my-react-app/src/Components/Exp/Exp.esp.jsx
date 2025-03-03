@@ -16,45 +16,45 @@ function Expesp() {
          <p className={styles.cargo}>IT y Web Dev</p>
          <p className={styles.textod}>
          -🖥️ IT & Soporte Técnico
-         <b/>
+         <br/>
           Administración y mantenimiento de redes
-          <b/>
+          <br/>
           Soporte técnico (hardware & software)
-          <b/>
+          <br/>
           Configuración de equipos y servidores
-          <b/>
+          <br/>
           Mantenimiento y optimización de PCs
-          <b/>
+          <br/>
           Administración de bases de datos
-          <b/>
+          <br/>
           Carga y gestión de datos
-          <b/>
+          <br/>
           Seguridad informática
-          <b/>
+          <br/>
          Diagnóstico y resolución de problemas técnicos           
-         <b/>
-         <b/>
+         <br/>
+         <br/>
          -🌐 Desarrollo Web
-         <b/>
+         <br/>
          JavaScript (JS)
-         <b/>
+         <br/>
          TypeScript
-         <b/>
+         <br/>
          Tailwind CSS
-         <b/>
+         <br/>
          HTML & CSS
-         <b/>
+         <br/>
          Desarrollo y mantenimiento de sitios web
-         <b/>
+         <br/>
          Optimización de rendimiento web
-         <b/>
+         <br/>
          UX/UI básico
-         <b/>
-         <b/>
+         <br/>
+         <br/>
          -📱 Marketing Digital & Redes Sociales
-         <b/>
+         <br/>
          Gestión de redes sociales
-         <b/>
+         <br/>
          </p>
          </div>
         <div>

@@ -16,45 +16,45 @@ function Exp() {
          <p className={styles.cargo}>IT & Web Dev</p>
 <p className={styles.textod}>
   -🖥️ IT & Technical Support  
-  <b/>  
+  <br/>
   Network administration and maintenance  
-  <b/>  
+  <br/>
   Technical support (hardware & software)  
-  <b/>  
+  <br/>
   Equipment and server configuration  
-  <b/>  
+  <br/>
   PC maintenance and optimization  
-  <b/>  
+  <br/>
   Database administration  
-  <b/>  
+  <br/>
   Data entry and management  
-  <b/>  
+  <br/> 
   Cybersecurity  
-  <b/>  
+  <br/>
   Technical issue diagnosis and resolution  
-  <b/>  
-  <b/>  
+  <br/>
+  <br/>
   -🌐 Web Development  
-  <b/>  
+  <br/>
   JavaScript (JS)  
-  <b/>  
+  <br/>
   TypeScript  
-  <b/>  
+  <br/>
   Tailwind CSS  
-  <b/>  
+  <br/>
   HTML & CSS  
-  <b/>  
+  <br/>
   Website development and maintenance  
-  <b/>  
+  <br/>
   Web performance optimization  
-  <b/>  
+  <br/>
   Basic UX/UI  
-  <b/>  
-  <b/>  
+  <br/>
+  <br/> 
   -📱 Digital Marketing & Social Media  
-  <b/>  
+  <br/> 
   Social media management  
-  <b/>  
+  <br/>
 </p>
          </div>
         <div>
